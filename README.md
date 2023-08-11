@@ -6,7 +6,7 @@ Visitor Management System
 
 > create new db and import "cvmsdb.sql"
 
-login info:
+login info: \n
 id:"admin" pas:"asdasd"
 id:"admin2" pas:"asdasd"
 id"sysadmin" pas"asdasd" 
