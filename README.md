@@ -6,9 +6,10 @@ Visitor Management System
 
 > create new db and import "cvmsdb.sql"
 
-login info: \n
+login info:
+
 id:"admin" pas:"asdasd"
-id:"admin2" pas:"asdasd"
+
 id"sysadmin" pas"asdasd" 
 (sysadmin is system admin and has full control over other administrators, meaning sysadmin can add new administrators, edit existing administrator information, or delete administrator account.)
 
