@@ -1,5 +1,5 @@
 # VMS
-Visitor Management System (PHP, HTML, Bootstrap, JS)
+Visitor Management System (PHP, HTML, Bootstrap, JS, MySQL)
 
 Visitor Management System
 
