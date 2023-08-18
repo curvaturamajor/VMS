@@ -3,7 +3,7 @@ Visitor Management System (PHP, HTML, Bootstrap, JS, MySQL)
 
 Visitor Management System
 
-
+XAMPP recommended
 > create new db and import "cvmsdb.sql"
 
 login info:
