@@ -8,9 +8,9 @@ XAMPP recommended
 
 login info:
 
-id:"admin" pas:"asdasd"
+> id:"admin" pas:"asdasd"
 
-id"sysadmin" pas"asdasd" 
+> id"sysadmin" pas"asdasd" 
 ("sysadmin" is the system admin and has full control over other adminis, meaning sysadmin can add new adminis, edit existing admin information, or delete adminis accounts.)
 
 When adding a new admin, remember that admin passwords are added after encrypting with md5 in the database.
